@@ -9,3 +9,5 @@ edit .env
 ```
 env $(cat .env | xargs) node .
 ```
+
+see tags
